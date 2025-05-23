@@ -15,7 +15,7 @@
       <a href="home.php" class="bg-blue-500 text-white font-semibold px-4 py-2 rounded hover:bg-blue-600">Home</a>
       <a href="index.php" class="bg-blue-500 text-white font-semibold px-4 py-2 rounded hover:bg-blue-600">Index</a>
     </div>
-  </div>
+  
 
 </body>
 </html>
